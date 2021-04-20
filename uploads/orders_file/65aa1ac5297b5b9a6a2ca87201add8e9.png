@@ -1,0 +1,6 @@
+You are given a dictionary/hash/object containing some languages and your test results in the given languages. Return the list of languages where your test score is at least 60, in descending order of the results.
+
+Note: the scores will always be unique (so no duplicate values)
+
+Examples
+{"Java": 10, "Ruby": 80, "Python": 65}    --È”XH‹”]Ûˆ—CBÈ’[™HˆŒ‘]ÚˆˆLË‘Ü™YZÈˆÌ_HKOˆÈ‘]Ú‹‘Ü™YZÈ‹’[™H—CBÈÊÊÈˆLTÓHˆL’\ÚÙ[ˆŒHKOˆ×
